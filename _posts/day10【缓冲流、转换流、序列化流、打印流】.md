@@ -1,3 +1,10 @@
+---
+layout: post
+title: day10【缓冲流、转换流、序列化流】笔记
+categories: Java
+description: day10【缓冲流、转换流、序列化流】笔记。
+keywords: Java
+---
 # day10【缓冲流、转换流、序列化流】
 
 ## 主要内容
