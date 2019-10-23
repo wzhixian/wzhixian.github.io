@@ -1,4 +1,4 @@
-# 码志
+# 烛照幽荧
 
 我的个人博客：<http://www.wangzhixian.club/>，欢迎 Star 和 Fork。
 
@@ -16,9 +16,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](http://www.wangzhixian.club)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](http://www.wangzhixian.club/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
