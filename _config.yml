@@ -10,7 +10,7 @@ description: "王志贤的个人博客"
 keywords: 烛照幽荧, ZhiXian Wang, wzhixian, wangzhixian
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 9
+side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
