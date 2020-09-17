@@ -1,6 +1,6 @@
 # 烛照幽荧
 
-我的个人博客：<http://www.wangzhixian.club/>，欢迎 Star 和 Fork。
+我的个人博客：<http://www.wangzhixian.xyz/>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -16,9 +16,9 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://www.wangzhixian.club)**
+**[在线预览 &rarr;](http://www.wangzhixian.xyz)**
 
-![screenshot home](http://www.wangzhixian.club/assets/images/screenshots/home.png)
+![screenshot home](http://www.wangzhixian.xyz/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
