@@ -51,7 +51,7 @@ window.onload = function(){
         function t(){
             var t=e("script"),o=t.length,i=t[o-1];
             return{
-                l:o,z:n(i,"zIndex",-1),o:n(i,"opacity",.2),c:n(i,"color","32,178,170"),n:n(i,"count",150)
+                l:o,z:n(i,"zIndex",-1),o:n(i,"opacity",.2),c:n(i,"color","32,178,170"),n:n(i,"count",0)
                     //<!-- opacity 参数设置的是透明程度，数字越小越透明；  color 设置颜色； count 设置磁线的数量  -->
         }
         }
