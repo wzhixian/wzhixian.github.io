@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.wangzhixian.top
+url: https://wzhixian.github.io
 date_format: "ordinal"
 title: 烛照幽荧
 subtitle: "我命由我不由天"

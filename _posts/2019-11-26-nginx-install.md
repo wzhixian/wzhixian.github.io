@@ -58,7 +58,7 @@ keywords: Nginx, Linux
     `[root@localhost nginx]# sbin/nginx`
 
 启动后可在浏览器上访问 host:port，如 127.0.0.1:80 。若打开后出现如下页面则安装完成 
-![Alt text](http://www.wangzhixian.club/images/posts/nginx/welcome to nginx.png "welcome to nginx")
+![Alt text](http://wzhixian.github.io/images/posts/nginx/welcome to nginx.png "welcome to nginx")
 
 # 四. 安装过程中遇到的问题
 
